@@ -1,0 +1,5 @@
+D:\Загрузки\ИПЗпз-16-1\ИПЗпз-16-1\1 семестр\Об'єктно-орієнтоване програмування\Решенное\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+D:\Загрузки\ИПЗпз-16-1\ИПЗпз-16-1\1 семестр\Об'єктно-орієнтоване програмування\Решенное\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\Загрузки\ИПЗпз-16-1\ИПЗпз-16-1\1 семестр\Об'єктно-орієнтоване програмування\Решенное\Rectangle\Rectangle\obj\x86\Debug\Rectangle.exe
+D:\Загрузки\ИПЗпз-16-1\ИПЗпз-16-1\1 семестр\Об'єктно-орієнтоване програмування\Решенное\Rectangle\Rectangle\obj\x86\Debug\Rectangle.pdb
+D:\Загрузки\ИПЗпз-16-1\ИПЗпз-16-1\1 семестр\Об'єктно-орієнтоване програмування\Решенное\Rectangle\Rectangle\obj\x86\Debug\Rectangle.csprojResolveAssemblyReference.cache
