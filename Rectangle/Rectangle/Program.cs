@@ -9,7 +9,7 @@ namespace Rectangle
     {
         // объявим поля double a, b.
         double a, b;
-         
+
         // Конструктор, позволяющий создать экземпляр класса с одним параметром, задающим сторону квадрата.
         public Rectangle(double a)
         {
