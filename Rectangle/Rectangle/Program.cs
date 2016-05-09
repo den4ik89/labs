@@ -15,7 +15,7 @@ namespace Rectangle
         {
             this.a = a;
         }
-        fc
+        
         // Конструктор, позволяющий создать экземпляр класса с заданными длинами сторон.
         public Rectangle(double a, double b)
         {
